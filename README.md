@@ -1,5 +1,5 @@
 # dobby
-`This project is for Linux & MacOS only`<br />
+This project is for Linux & MacOS only<br />
 **[Linux](https://github.com/Yochran/dobby/blob/main/dobby.py)**<br />
 **[OSX](https://github.com/Yochran/dobby/blob/main/dobby_osx.py)**<br />
 
