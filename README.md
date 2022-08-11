@@ -1,5 +1,7 @@
 # dobby
-`Linux & OSX only`
+`This project is for Linux & MacOS only`<br />
+**[Linux](https://github.com/Yochran/dobby/blob/main/dobby.py)**<br />
+**[OSX](https://github.com/Yochran/dobby/blob/main/dobby_osx.py)**<br />
 
 # About
 This was just a fun experiment to try out some manual obfuscation techniques to try and bypass anti-viruses.<br />
