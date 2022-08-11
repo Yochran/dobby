@@ -12,6 +12,4 @@ This was just a fun experiment to try out some manual obfuscation techniques to 
  - Bash
  - [C-Script](https://github.com/the-antibody/cscript)
  - HTML
- - JavaScript
- - CSS
 
